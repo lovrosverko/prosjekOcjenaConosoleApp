@@ -1,0 +1,8 @@
+C:\Users\Lovro Šverko\source\repos\UvodniProjekt3d\UvodniProjekt3d\bin\Debug\UvodniProjekt3d.exe.config
+C:\Users\Lovro Šverko\source\repos\UvodniProjekt3d\UvodniProjekt3d\bin\Debug\UvodniProjekt3d.exe
+C:\Users\Lovro Šverko\source\repos\UvodniProjekt3d\UvodniProjekt3d\bin\Debug\UvodniProjekt3d.pdb
+C:\Users\Lovro Šverko\source\repos\UvodniProjekt3d\UvodniProjekt3d\obj\Debug\UvodniProjekt3d.csproj.AssemblyReference.cache
+C:\Users\Lovro Šverko\source\repos\UvodniProjekt3d\UvodniProjekt3d\obj\Debug\UvodniProjekt3d.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lovro Šverko\source\repos\UvodniProjekt3d\UvodniProjekt3d\obj\Debug\UvodniProjekt3d.csproj.CoreCompileInputs.cache
+C:\Users\Lovro Šverko\source\repos\UvodniProjekt3d\UvodniProjekt3d\obj\Debug\UvodniProjekt3d.exe
+C:\Users\Lovro Šverko\source\repos\UvodniProjekt3d\UvodniProjekt3d\obj\Debug\UvodniProjekt3d.pdb
